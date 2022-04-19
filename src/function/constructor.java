@@ -5,7 +5,7 @@ public class constructor
 
 	public constructor ()
 	{
-	System.out.println("girishpardeshi");
+	System.out.println("salaamrockybhai");
 	}
 	
 	public static void main(String[]args)
